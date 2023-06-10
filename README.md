@@ -1,2 +1,2 @@
 # Prueba
-Herramientas silvícolas para los bosques templados al sur de México
+Aplicación de herramientas biométricas para el manejo de bosques de Pinus patula al sur de México
